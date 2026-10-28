@@ -1,0 +1,6 @@
+{
+  "name": "Meu Audiobook - Player Android",
+  "description": "Aplicativo Android completo e player offline de audiobooks com Jetpack Compose, Media3/ExoPlayer, Room e simulação interativa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
