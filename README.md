@@ -2,6 +2,8 @@
 
 Player de audiobooks em formato de **web app** (React + Vite), com interface inspirada em um app Android nativo e navegação pensada para o celular.
 
+🔗 **Abrir online:** https://meu-audiobook.vercel.app
+
 > **Importante:** este projeto é uma **simulação interativa** (protótipo de interface). Os trechos de código Android exibidos dentro do app (Compose, Media3, Room) são ilustrativos e **não formam um projeto compilável**.
 
 ## Funcionalidades
